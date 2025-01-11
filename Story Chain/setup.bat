@@ -97,7 +97,7 @@ if exist "..\node_modules" (
 ) else (
     echo Using node_modules from current directory
 )
-cd story-chain && node bot
+node meomundep
 pause
 goto MENU
 
